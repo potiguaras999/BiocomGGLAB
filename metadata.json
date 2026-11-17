@@ -1,0 +1,6 @@
+{
+  "name": "GGLAB — Biologia Lúdica",
+  "description": "Plataforma mobile-first de ensino de biologia com videoaulas lúdicas, quizzes interativos, mini-games e sistema de recompensas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
